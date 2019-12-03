@@ -5,7 +5,7 @@ const Home  =() =>{
          return(
            
 			 <div style={{  
-  backgroundImage: "url(" + "img/UET_Auditorium.png"" + ")",
+  backgroundImage: url(process.env.PUBLIC_URL + "img/UET_Auditorium.png"),
   backgroundPosition: 'center',
   backgroundSize: 'cover',
   backgroundRepeat: 'no-repeat'
