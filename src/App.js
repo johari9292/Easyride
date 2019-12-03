@@ -15,7 +15,8 @@ import Footer from './components/footer'
       <div id="logo" className="pull-left">
         <h1>
           <a href="/" className="scrollto">
-            <span>Easy</span>Ride
+            <span>Easy</span>Ride 
+      
           </a>
         </h1>
         {/* Uncomment below if you prefer to use an image logo */}
