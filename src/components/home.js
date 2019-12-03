@@ -9,10 +9,7 @@ const Home  =() =>{
 			<div className="hero-container">
 				<br></br>
 				<br></br>
-				<br></br>
-				<br></br>
-				<br></br>
-				<br></br>
+				
 			  <h1>Welcome to Easy-Ride</h1>
 			  <h2>Go Home Early &amp; Save Time &amp; Money Just Registered Here and Enjoy Our Service </h2>
 			  <img src="img/bg.png" alt="Hero Imgs" />
@@ -29,11 +26,7 @@ const Home  =() =>{
 			
 			<br></br>
 			<br></br>
-			<br></br>
 			
-			<br></br>
-		 <br></br>
-			<br></br>
 			
 			
 		  </div>
