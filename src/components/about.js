@@ -13,7 +13,7 @@ import React from 'react'
         <div className="col-md-7 col-lg-5">
           <div className="about-content">
             <h2>
-              <span>eStartup</span>Save Time &amp; Money{" "}
+              <span>Easy-Ride</span>Save Time &amp; Money{" "}
             </h2>
             <p>
             We are Providing service to student to save thier time and Money.
