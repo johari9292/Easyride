@@ -13,7 +13,7 @@ const Home  =() =>{
 				<br></br>
 				<br></br>
 				<br></br>
-			  <h1>Welcome to eStartups</h1>
+			  <h1>Welcome to Easy-Ride</h1>
 			  <h2>Let Go Home Early &amp; Save Time &amp; Money Just Registerd Here and Enjoy Our Service </h2>
 			  <img src="img/hero-img.png" alt="Hero Imgs" />
 			  <a href="https://docs.google.com/forms/d/e/1FAIpQLScZaH2QWE_D-al20TGxWu9GxTKehZI_1ONdxf_gn613VqCZ3g/viewform?usp=sf_link
