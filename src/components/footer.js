@@ -9,7 +9,7 @@ import React from 'react';
         <div className="col-md-12 col-lg-4">
           <div className="footer-logo">
             <a className="navbar-brand" href="!#">
-            <h1>  eStartup</h1>
+            <h1>  Easy-Ride</h1>
             </a>
     
             <p>
