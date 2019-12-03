@@ -8,7 +8,7 @@ import React from 'react'
     <div className="container">
       <div className="row justify-content-center">
         <div className="col-md-5 col-lg-3">
-          <img src="img/about-img.png" alt="About" />
+          <img src="img/about-img2.png" alt="About" />
         </div>
         <div className="col-md-7 col-lg-5">
           <div className="about-content">
