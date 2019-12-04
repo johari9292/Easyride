@@ -13,11 +13,10 @@ import React from 'react';
             </a>
     
             <p>
-              We are Providing service to student to save thier time and Money.
-              we are providing Van service  University student to let them go home soon espacially those 
-              who use university bus service and they have to wait for to 4 hours 
-              to go to home or they have to spend lot of money on other 
-              vehicle system.
+              The Easy-Ride is Time &amp;   Money Saving Service for the students 
+            and employees of uet Lahore which will provide the transport facility
+            when at the same time most of the students will be free. 
+            It is cheap compared to other local cab services and also reliable.
             </p>
           </div>
         </div>
