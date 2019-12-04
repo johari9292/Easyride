@@ -20,7 +20,7 @@ import Footer from './components/footer'
           </a>
         </h1>
         {/* Uncomment below if you prefer to use an image logo */}
-        {<a href="#body"><img src="img/logo.jpg" alt="" title="" /></a>}
+//         {<a href="#body"><img src="img/logo.jpg" alt="" title="" /></a>}
       </div>
       <nav id="nav-menu-container">
         <ul className="nav-menu">
