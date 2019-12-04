@@ -55,17 +55,17 @@ import React from 'react';
             <br></br>
             <h4>Contact</h4>
             <ul className="list-unstyled">
-           <li> <a href="!#" className="twitter">
+           <li> <a href="https://twitter.com/?lang=en" className="twitter">
               <i className="fa fa-twitter" />
             </a></li>
-            <li> <a href="!#" className="facebook">
+            <li> <a href="https://www.facebook.com/ishaqjohari9292" className="facebook">
               <i className="fa fa-facebook" />
             </a></li>
            
-            <li> <a href="!#" className="google-plus">
+            <li> <a href="mailto:johari9292@gmail.com" className="google-plus">
               <i className="fa fa-google-plus" />
             </a></li>
-            <li>  <a href="!#" className="linkedin">
+            <li>  <a href="www.linkedin.com/in/computerengineer-johari9292" className="linkedin">
               <i className="fa fa-linkedin" />
             </a></li>
             </ul>
