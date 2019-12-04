@@ -4,12 +4,7 @@ import {  Link } from "react-router-dom";
 const Home  =() =>{
          return(
            
-			 <div style={{  
-   backgroundImage: "url(" + "img/UET_Auditorium.jpg" + ")",
-  backgroundPosition: 'center',
-  backgroundSize: 'cover',
-  backgroundRepeat: 'no-repeat'
-}}>
+			 <div >
 			<section id="hero" className="wow fadeIn">
 			<div className="hero-container">
 				<br></br>
