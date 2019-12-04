@@ -11,7 +11,7 @@ const Home  =() =>{
 				<br></br>
 				
 			  <h1>Welcome to Easy-Ride</h1>
-			  <h2>Go Home Early &amp; Save Time &amp; Money Just Registered Here and Enjoy Our Service </h2>
+			  <h2>Go Home Early &amp; Save Time &amp; Money <br/>Just Registered Here &amp;  Enjoy Our Service </h2>
 			  <img src="img/bg.png" alt="Hero Imgs" />
 			  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfS1uvY9aKcKItEv18tpzBDUfXTTjApZx6MQeojzxiIIHDX0Q/viewform?usp=sf_link
 "  className="btn-get-started scrollto">
